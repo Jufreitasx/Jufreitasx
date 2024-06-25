@@ -2,6 +2,6 @@
 
 <div>
   
-  <img align="center" alt="Rafa-Csharp" height="669" width="1770" src="https://github.com/Jufreitasx/BootCamp-Stdr/blob/main/tech.jpg?raw=true">
+  <img align="center" alt="Rafa-Csharp" height="356" width="679" src="https://github.com/Jufreitasx/BootCamp-Stdr/blob/main/tech.jpg?raw=true">
   
 </div>
